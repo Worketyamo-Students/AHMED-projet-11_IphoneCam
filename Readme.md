@@ -1,1 +1,7 @@
-# projet 11: Creation d'un site de E-commerce pour iphone avec TailwindCss
+# Projet 11 : E-commerce
+## Objectifs
+  Les objectifs consistent à concevoir un site web de commerce électronique sur les produits
+
+# Technologies utilisées
+HTML
+TAILWIND CSS
